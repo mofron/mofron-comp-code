@@ -1,6 +1,6 @@
 {
   "name": "mofron-comp-code",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mofron/mofron-comp-code.git"
+  },
+  "dependencies": {
+    "mofron-comp-text" : ""
   },
   "keywords": [
     "font-end",
